@@ -21,3 +21,9 @@ tags:
 
 ## 快速选中同文本
 `Alt` + `J`
+
+## 上下换行
+`Ctrl` + `Shift` + ↑/↓
+
+## ReFormat
+`Ctrl` + `Alt` + `L`
